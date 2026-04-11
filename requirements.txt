@@ -1,2 +1,2 @@
-streamlit
-pandas
+streamlit-camera-input-live
+Pillow
